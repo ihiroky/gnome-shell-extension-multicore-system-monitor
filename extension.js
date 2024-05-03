@@ -8,9 +8,9 @@ import GLib from 'gi://GLib';
 
 const PI = 3.141592654;
 const METADATA_NAME = 'multicore-system-monitor';
-const METADATA_UUID = 'multicore-system-monitor@igrek.dev';
+const METADATA_UUID = 'multicore-system-monitor@ihiroky.github.com';
 
-const COLOR_BACKGROUND = parseColor('#000000');
+const COLOR_BACKGROUND = parseColor('#00000000');
 const CORE_COLORS = [
     parseColor('#E03D45'), // grapefruit
     parseColor('#F85C51'), // coral
