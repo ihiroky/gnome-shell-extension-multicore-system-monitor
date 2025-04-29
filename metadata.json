@@ -1,5 +1,5 @@
 {
-  "name": "multicore-system-monitorls ^",
+  "name": "multicore-system-monitor",
   "description": "Show consumption of each CPU core and memory",
   "uuid": "multicore-system-monitor@ihiroky.github.com",
   "shell-version": [
